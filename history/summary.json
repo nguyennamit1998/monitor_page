@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bidv.com.vn.ico",
     "slug": "bidv",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "11.53%",
+    "uptimeDay": "11.53%",
+    "uptimeWeek": "11.53%",
+    "uptimeMonth": "11.53%",
+    "uptimeYear": "11.53%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-14": 0
+    }
   },
   {
     "name": "IPv6 test",
